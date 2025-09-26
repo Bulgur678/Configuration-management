@@ -1,0 +1,7 @@
+ls ASD
+cd lll
+echo ASD
+echo TEMP
+cd TEMP
+asda
+ls AAAA
