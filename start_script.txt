@@ -1,7 +1,7 @@
 ls ASD
 cd lll
 echo ASD
-echo TEMP
-cd TEMP
-asda
-ls AAAA
+echo
+$TEMP
+date
+new cc
