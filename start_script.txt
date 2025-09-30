@@ -5,3 +5,4 @@ echo
 $TEMP
 date
 new cc
+ls fffoof
