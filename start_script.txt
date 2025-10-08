@@ -1,8 +1,0 @@
-ls ASD
-cd lll
-echo ASD
-echo
-$TEMP
-date
-new cc
-ls fffoof
